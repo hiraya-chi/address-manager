@@ -1,0 +1,168 @@
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Server version:        Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Server built:          Aug 11 2017 10:21:27 UTC
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Server number:         7.0.81.0
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: OS Name:               Windows 10
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: OS Version:            10.0
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Architecture:          amd64
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: JVM Version:           1.8.0_191-b12
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: JVM Vendor:            Oracle Corporation
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: CATALINA_BASE:         C:\Users\yo.hirayama\address-manager\application\target\apache-tomee
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: CATALINA_HOME:         C:\Users\yo.hirayama\address-manager\application\target\apache-tomee
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dtomee.remote.support=true
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dopenejb.system.apps=false
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Djava.util.logging.config.file=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\conf\logging.properties
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -javaagent:C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\lib\openejb-javaagent.jar
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Djava.io.tmpdir=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\temp
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Djava.endorsed.dirs=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\endorsed
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dcatalina.base=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dcatalina.home=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dcatalina.ext.dirs=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\lib
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+11 15, 2018 7:23:30 午後 org.apache.catalina.startup.VersionLoggerListener log
+情報: Command line argument: -ea
+11 15, 2018 7:23:30 午後 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+情報: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Users\yo.hirayama\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\yo.hirayama\AppData\Local\Programs\Python\Python36-32\;C:\Users\yo.hirayama\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\yo.hirayama\AppData\Local\atom\bin;C:\Program Files (x86)\SAP\FrontEnd\SAPgui;C:\Users\yo.hirayama\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_191\bin;C:\apache-maven-3.6.0\bin;.
+11 15, 2018 7:23:30 午後 org.apache.coyote.AbstractProtocol init
+情報: Initializing ProtocolHandler ["http-bio-8080"]
+11 15, 2018 7:23:30 午後 org.apache.coyote.AbstractProtocol init
+情報: Initializing ProtocolHandler ["ajp-bio-8009"]
+11 15, 2018 7:23:31 午後 org.apache.openejb.util.OptionsLog info
+情報: Using 'tomee.remote.support=true'
+11 15, 2018 7:23:31 午後 org.apache.openejb.util.OptionsLog info
+情報: Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: ********************************************************************************
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: OpenEJB http://tomee.apache.org/
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: Startup: Thu Nov 15 19:23:31 JST 2018
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: Copyright 1999-2015 (C) Apache OpenEJB/TomEE Project, All Rights Reserved.
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: Version: 4.7.5
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: Build date: 20170927
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: Build time: 12:02
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: ********************************************************************************
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: openejb.home = C:\Users\yo.hirayama\address-manager\application\target\apache-tomee
+11 15, 2018 7:23:31 午後 org.apache.openejb.OpenEJB$Instance <init>
+情報: openejb.base = C:\Users\yo.hirayama\address-manager\application\target\apache-tomee
+11 15, 2018 7:23:31 午後 org.apache.openejb.cdi.CdiBuilder initializeOWB
+情報: Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@74294adb
+11 15, 2018 7:23:31 午後 org.apache.openejb.cdi.CdiBuilder initializeOWB
+情報: Succeeded in installing singleton service
+11 15, 2018 7:23:31 午後 org.apache.openejb.config.ConfigurationFactory init
+情報: openejb configuration file is 'C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\conf\tomee.xml'
+11 15, 2018 7:23:31 午後 org.apache.openejb.config.ConfigurationFactory configureService
+情報: Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+11 15, 2018 7:23:31 午後 org.apache.openejb.config.ConfigurationFactory configureService
+情報: Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+11 15, 2018 7:23:31 午後 org.apache.openejb.util.OptionsLog info
+情報: Using 'openejb.system.apps=false'
+11 15, 2018 7:23:31 午後 org.apache.openejb.util.OptionsLog info
+情報: Using 'openejb.deployments.classpath=false'
+11 15, 2018 7:23:31 午後 org.apache.openejb.assembler.classic.Assembler createRecipe
+情報: Creating TransactionManager(id=Default Transaction Manager)
+11 15, 2018 7:23:31 午後 org.apache.openejb.assembler.classic.Assembler createRecipe
+情報: Creating SecurityService(id=Tomcat Security Service)
+11 15, 2018 7:23:31 午後 org.apache.openejb.server.ServiceManager initServer
+情報: Creating ServerService(id=cxf-rs)
+11 15, 2018 7:23:32 午後 org.apache.openejb.server.SimpleServiceManager start
+情報:   ** Bound Services **
+11 15, 2018 7:23:32 午後 org.apache.openejb.server.SimpleServiceManager printRow
+情報:   NAME                 IP              PORT  
+11 15, 2018 7:23:32 午後 org.apache.openejb.server.SimpleServiceManager start
+情報: -------
+11 15, 2018 7:23:32 午後 org.apache.openejb.server.SimpleServiceManager start
+情報: Ready!
+11 15, 2018 7:23:32 午後 org.apache.catalina.startup.Catalina load
+情報: Initialization processed in 2419 ms
+11 15, 2018 7:23:32 午後 org.apache.tomee.catalina.OpenEJBNamingContextListener bindResource
+情報: Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+11 15, 2018 7:23:32 午後 org.apache.openejb.assembler.classic.Assembler createRecipe
+情報: Creating Resource(id=UserDatabase)
+11 15, 2018 7:23:32 午後 org.apache.catalina.core.StandardService startInternal
+情報: サービス Catalina を起動します
+11 15, 2018 7:23:32 午後 org.apache.catalina.core.StandardEngine startInternal
+情報: Starting Servlet Engine: Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+11 15, 2018 7:23:32 午後 org.apache.catalina.startup.HostConfig deployWAR
+情報: Webアプリケーションアーカイブ C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT.war を配備します
+11 15, 2018 7:23:32 午後 org.apache.tomee.catalina.TomcatWebAppBuilder init
+情報: ------------------------- localhost -> /
+11 15, 2018 7:23:32 午後 org.apache.openejb.util.JarExtractor extract
+情報: Extracting jar: C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT.war
+11 15, 2018 7:23:32 午後 org.apache.openejb.util.JarExtractor extract
+情報: Extracted path: C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT
+11 15, 2018 7:23:32 午後 org.apache.openejb.util.OptionsLog info
+情報: Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+11 15, 2018 7:23:35 午後 org.apache.openejb.config.ConfigurationFactory configureApplication
+情報: Configuring enterprise application: C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT
+11 15, 2018 7:23:35 午後 org.apache.openejb.config.ConfigurationFactory configureService
+情報: Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+11 15, 2018 7:23:35 午後 org.apache.openejb.config.AutoConfig createContainer
+情報: Auto-creating a container for bean .Comp2007040843: Container(type=MANAGED, id=Default Managed Container)
+11 15, 2018 7:23:35 午後 org.apache.openejb.assembler.classic.Assembler createRecipe
+情報: Creating Container(id=Default Managed Container)
+11 15, 2018 7:23:35 午後 org.apache.openejb.core.managed.SimplePassivater init
+情報: Using directory C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\temp for stateful session passivation
+11 15, 2018 7:23:35 午後 org.apache.openejb.config.AppInfoBuilder build
+情報: Enterprise application "C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT" loaded.
+11 15, 2018 7:23:35 午後 org.apache.openejb.assembler.classic.Assembler createApplication
+情報: Assembling app: C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT
+11 15, 2018 7:23:36 午後 org.apache.openejb.cdi.CdiBuilder initSingleton
+情報: Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@74294adb
+11 15, 2018 7:23:36 午後 org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+情報: OpenWebBeans Container is starting...
+11 15, 2018 7:23:36 午後 org.apache.webbeans.plugins.PluginLoader startUp
+情報: Adding OpenWebBeansPlugin : [CdiPlugin]
+11 15, 2018 7:23:36 午後 org.apache.webbeans.plugins.PluginLoader startUp
+情報: Adding OpenWebBeansPlugin : [OpenWebBeansJsfPlugin]
+11 15, 2018 7:23:41 午後 org.apache.webbeans.config.BeansDeployer deploySingleAnnotatedType
+情報: Skipping deployment of Class class com.sap.cloud.sdk.cloudplatform.auditlog.ScpCfAuditLogdue to a NoClassDefFoundError: com/sap/xs/audit/api/exception/AuditLogException
+11 15, 2018 7:23:43 午後 org.apache.webbeans.config.BeansDeployer validateInjectionPoints
+情報: All injection points were validated successfully.
+11 15, 2018 7:23:43 午後 org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+情報: OpenWebBeans Container has started, it took 7644 ms.
+11 15, 2018 7:23:43 午後 org.apache.openejb.assembler.classic.Assembler createApplication
+情報: Deployed Application(path=C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT)
+11 15, 2018 7:23:45 午後 org.apache.catalina.startup.HostConfig deployWAR
+情報: Deployment of web application archive C:\Users\yo.hirayama\address-manager\application\target\apache-tomee\webapps\ROOT.war has finished in 13,330 ms
+11 15, 2018 7:23:45 午後 org.apache.coyote.AbstractProtocol start
+情報: Starting ProtocolHandler ["http-bio-8080"]
+11 15, 2018 7:23:45 午後 org.apache.coyote.AbstractProtocol start
+情報: Starting ProtocolHandler ["ajp-bio-8009"]
+11 15, 2018 7:23:45 午後 org.apache.catalina.startup.Catalina start
+情報: Server startup in 13492 ms
